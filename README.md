@@ -23,17 +23,17 @@ Interactive 3-page Power BI report analysing 10,000 Starbucks orders (2023–202
 ## Dashboard Pages
 
 ### 1. Country Market Investment
-![Country Market Investment](screenshots/01-country-market-investment.png)
+![Country Market Investment](01-country-market-investment.png)
 
 Compares the six markets on revenue, refunds, net revenue, customers, orders and net revenue per customer, with country and year slicers.
 
 ### 2. Loyalty & Payment Gap
-![Loyalty & Payment Gap](screenshots/02-loyalty-payment-gap.png)
+![Loyalty & Payment Gap](02-loyalty-payment-gap.png)
 
 Compares membership tiers on net revenue and revenue per customer, and tracks payment gap orders by country and product category.
 
 ### 3. Payment & Refund Risk
-![Payment & Refund Risk](screenshots/03-payment-refund-risk.png)
+![Payment & Refund Risk](03-payment-refund-risk.png)
 
 Breaks down refunds and refund rates by payment method, including the trend across 2023–2025.
 
