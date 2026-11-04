@@ -115,10 +115,9 @@ Net_Revenue_Per_Customer = DIVIDE ( [Net Revenue], [Total Customers] )
 ```
 ├── README.md
 ├── starbucks.pbix
-└── screenshots/
-    ├── 01-country-market-investment.png
-    ├── 02-loyalty-payment-gap.png
-    └── 03-payment-refund-risk.png
+├── 01-country-market-investment.png
+├── 02-loyalty-payment-gap.png
+└── 03-payment-refund-risk.png
 ```
 
 ## Author
