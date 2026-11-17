@@ -18,7 +18,7 @@ Interactive 3-page Power BI report analysing 10,000 Starbucks orders (2023–202
 - **Size:** 10,000 orders from 10,000 customers (1 order per customer)
 - **Period:** 2023 – 2025
 - **Dimensions:** country (CA, CN, DE, JP, UK, US), payment method (Cash, Credit Card, Mobile App, Starbucks Card), membership tier (Non-Member, Starbucks Rewards, Starbucks Rewards Gold), product category (8)
-- **Source:** _add link or description here (e.g. Kaggle dataset name)_
+
 
 ## Dashboard Pages
 
@@ -83,7 +83,7 @@ Breaks down refunds and refund rates by payment method, including the trend acro
 
 ## Data Model & DAX
 
-_Replace this section with your actual model and measures._
+
 
 - **Model:** _describe your tables and relationships, e.g. fact table (orders) linked to a date table and dimension tables_
 - **Sample measures** (consistent with the figures in the report):
